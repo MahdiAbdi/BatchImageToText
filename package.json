@@ -1,0 +1,17 @@
+{
+  "name": "batch_image_to_text",
+  "version": "0.1",
+  "main": "index.js",
+  "author": "Mahdi Abdi",
+  "license": "MIT",
+  "dependencies": {
+    "@types/async": "^3.0.8",
+    "async": "^3.2.0",
+    "open": "^7.0.3",
+    "server-destroy": "^1.0.1"
+  },
+  "devDependencies": {
+    "googleapis": "39",
+    "prompts": "^2.3.2"
+  }
+}

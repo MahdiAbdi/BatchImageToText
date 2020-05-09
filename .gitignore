@@ -1,0 +1,7 @@
+node_modules/
+files/
+output/
+auth/
+test/
+token.json
+credentials.json
