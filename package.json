@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/async": "^3.0.8",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "open": "^7.0.3",
     "server-destroy": "^1.0.1"
   },
